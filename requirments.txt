@@ -1,0 +1,9 @@
+matplotlib
+networkx
+pandas
+numpy
+ndlib
+sklearn
+cdlib
+kneed
+yellowbrick
